@@ -81,13 +81,6 @@
   } ]
 }, {
   "baseItem" : {
-    "id" : "_SugBUPcmEe2cjPxEPHePQg",
-    "version" : "0.1",
-    "type" : "job"
-  },
-  "relatedItems" : [ ]
-}, {
-  "baseItem" : {
     "id" : "_es0owPcLEe2cjPxEPHePQg",
     "version" : "0.1",
     "type" : "job"
