@@ -94,4 +94,15 @@
     "version" : "Latest",
     "type" : "schema"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_yVVtAPlnEe2cjPxEPHePQg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_sSHZwPl8Ee2cjPxEPHePQg",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
 } ]
