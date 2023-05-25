@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+nexus.proxy.enable=true
+nexus.proxy.password=enc\:system.encryption.key.v1\:5PA7ewLdtJ8+ND5R0F32j/CwregVEoctMOF22etp9Entp68ya8UG
+nexus.proxy.repository.id=maven-central
+nexus.proxy.type=NEXUS_3
+nexus.proxy.url=http\://localhost\:8081/repository/maven-central/
+nexus.proxy.username=admin
