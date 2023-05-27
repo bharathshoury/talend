@@ -1,0 +1,32 @@
+{
+  "itemId" : "_yIV9APuPEe2RA-ljY_iWpg",
+  "contextList" : [ {
+    "contextName" : "ppt",
+    "repoId" : "_pmrzEPuREe2RA-ljY_iWpg",
+    "parameterList" : [ {
+      "id" : "_-rue4PusEe2RA-ljY_iWpg",
+      "name" : "mpassword"
+    }, {
+      "id" : "_-rue4fusEe2RA-ljY_iWpg",
+      "name" : "mdatabase"
+    }, {
+      "id" : "_-rue4vusEe2RA-ljY_iWpg",
+      "name" : "mhost"
+    }, {
+      "id" : "_-rue4_usEe2RA-ljY_iWpg",
+      "name" : "mproperty_type"
+    }, {
+      "id" : "_-rue5PusEe2RA-ljY_iWpg",
+      "name" : "mport"
+    }, {
+      "id" : "_-rue5fusEe2RA-ljY_iWpg",
+      "name" : "maddational_jdbc"
+    }, {
+      "id" : "_-rue5vusEe2RA-ljY_iWpg",
+      "name" : "musername"
+    }, {
+      "id" : "_-rue5_usEe2RA-ljY_iWpg",
+      "name" : "menvironment"
+    } ]
+  } ]
+}
